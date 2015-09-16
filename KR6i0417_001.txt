@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:07.249227
+#+DATE: 2015-08-30 20:19:08.487503
 #+TITLE: 分別業報略經
 #+PROPERTY: CBETA_ID T17n0723
 #+PROPERTY: ID KR6i0417
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 723
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0417_T_000-0446b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0417_T_001-0446b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.723¶
-
- 《分別業報略經》¶
+No. 723¶
+《分別業報略經》¶
 ¶
 大勇菩薩撰¶
 宋天竺三藏僧伽跋摩譯¶
@@ -35,7 +34,7 @@ No.723¶
 　分別業果報。¶
 　佛以法自覺，
 　諸天咸勸請，¶
-　即至波羅㮈，
+　即至波羅[木*奈]，
 　演暢真諦義。¶
 　謂苦及苦因，
 　苦集究竟滅，¶
@@ -243,7 +242,7 @@ No.723¶
 　不依正憶念，¶
 　後作大力龍。
 　能修大布施，¶
-　高心𣣋蔑人，
+　高心[夌*欠]蔑人，
 　由斯業行生，¶
 　大力金翅鳥。
 　劫盜賢善人，¶
@@ -581,7 +580,7 @@ No.723¶
 　諂諛致身曲，
 　訛言形矬陋；¶
 　見聖心不喜，¶
-　所生常愚憃；
+　所生常愚惷；
 　瘖瘂不能言，¶
 　目盲無所見。
 　尊長師善友，¶
