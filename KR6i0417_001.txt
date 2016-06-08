@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:07.249227
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:32
 #+TITLE: 分別業報略經
 #+PROPERTY: CBETA_ID T17n0723
 #+PROPERTY: ID KR6i0417
@@ -742,7 +742,7 @@ No.723¶
 　觀彼有無常，
 　慧者不染著，¶
 　出離諸繫縛，
-　永到安隱處。
+　永到安隱處。」
 #+END_VERSE
-」¶
+¶
 《分別業報略經》
